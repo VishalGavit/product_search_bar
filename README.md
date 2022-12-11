@@ -1,7 +1,7 @@
 # product_search_bar
 
-## HTMl
+## HTML
 
-##CSS
+## CSS
 
-##JavaScript
+## JavaScript
